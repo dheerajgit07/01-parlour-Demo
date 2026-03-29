@@ -47,7 +47,7 @@ export function Navbar() {
               onClick={() => scrollToSection('hero')}
               className="text-2xl font-serif font-bold tracking-widest bg-gradient-to-r from-amber-200 via-yellow-400 to-amber-500 bg-clip-text text-transparent hover:opacity-80 transition-opacity uppercase"
             >
-              Belle Beauté
+            DIKOTA
             </button>
           </div>
 
